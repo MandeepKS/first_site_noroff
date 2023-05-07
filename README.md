@@ -1,1 +1,1 @@
-# first_site_noroff
+# My First Repo in Noroff scholl
