@@ -1,1 +1,1 @@
-# My First Repo in Noroff scholl
+# My First Repo in Noroff school
